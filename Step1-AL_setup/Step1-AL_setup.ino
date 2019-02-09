@@ -823,4 +823,4 @@ void intro(){
   Serial.println(F("Think_Beyond_Infinity"));
 }
 
-//Copywrite- http://www.brokking.net/
+//Credit- http://www.brokking.net/
