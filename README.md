@@ -32,3 +32,8 @@ utilized in various calibration steps which include.
 - Stage1:- Step1_Al_setup
 - Stage2:- Step2_esc_calibrate
 - Stage3:- Step3_Flight_controller
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MO3xnaXSJxw
+" target="_blank"><img src="http://img.youtube.com/vi/MO3xnaXSJxw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
